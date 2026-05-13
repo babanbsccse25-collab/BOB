@@ -15,4 +15,4 @@ int main() {
     printf("Factorial of %d = %d", num, factorial(num));
 
     return 0;
-}
+}is the true legend
